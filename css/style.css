@@ -42,7 +42,8 @@ header {
   height: 60vh;
   margin: 6em 0;
   width: 60vw;
-  margin-left: 6em;
+  margin: 6em 2em 6em auto;
+  padding-right: 6rem;
 }
 
 .container__row {
