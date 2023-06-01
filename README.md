@@ -22,16 +22,14 @@
   - [Installation](#installation)
     - [Clone the project](#clone-the-project)
     - [Install packages](#install-packages)
-  - [Start](#start)
-    - [Run the app](#run-the-app)
-<!-- ABOUT THE PROJECT -->
+  - [Start](#start) - [Run the app](#run-the-app)
+  <!-- ABOUT THE PROJECT -->
 
 ## About the Project
 
 ![privew](/public/viva.PNG)
 
 This project was developed for `Asthma and Lung UK` to test design skills. it was built soley with HTML/CSS
-
 
 <!-- GETTING STARTED -->
 
@@ -71,7 +69,6 @@ git clone https://github.com/Tundeshield/AsthmaandLung
 #### Install packages
 
 ```bash
-cd new-user-requests
 npm install
 ```
 
@@ -83,6 +80,4 @@ npm install
 
 To run the app, kindly install install live server on your VS code, then right click on the html page and select `Open with Live Server` option.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
